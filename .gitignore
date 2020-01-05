@@ -1,0 +1,9 @@
+.vscode/
+.env/
+.env
+.idea/
+venv/
+dist/
+__pycache__/
+**/migrations/*
+
